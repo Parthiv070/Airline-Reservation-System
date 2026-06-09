@@ -1,7 +1,7 @@
 # ✈️ Airline Reservation System
 
 ## 📌 Overview
-The **Airline Reservation System** is a full-stack web application built using **Java, Spring Boot, Hibernate, and PostgreSQL**.  
+The **Airline Reservation System** is a full-stack web application built using **Java, Spring Boot, Hibernate, and MySql**.  
 It enables users to search for flights, book tickets, manage reservations, and perform cancellations.  
 The system also provides **secure login authentication**, **session management**, and **SMTP-based email verification** for registration and password recovery.
 
