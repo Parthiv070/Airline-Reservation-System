@@ -17,12 +17,12 @@ The system also provides **secure login authentication**, **session management**
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack  
 **Backend**  
 - Java  
 - Spring Boot  
 - Hibernate (ORM)  
-- PostgreSQL  
+- MySQL  
 
 **Frontend**  
 - HTML, CSS, Bootstrap  
